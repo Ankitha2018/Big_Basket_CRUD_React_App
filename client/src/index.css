@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: "Ubuntu", sans-serif;
+    background-color: #b6fabb !important;
+}
+
+.landing-page{
+  background: white url("./assets/img/bg-grocery.jpg") no-repeat scroll center;
+  background-size: cover;
+  height: 100vh;
+  color:  lightgreen;
+}
+.wrapper{
+  background-color: rgba(0,0,0,0.8);
+  height: 100%;
+}
+
+.table tr td {
+  font-weight:bold;
+}
+
+.btn-space {
+    margin-right: 5px;
+}
